@@ -1,0 +1,23 @@
+{
+  "name": "backend_erporate",
+  "version": "1.0.0",
+  "description": "BackEnd Erporate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nurjannah",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "canvas": "^2.3.1",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "git": "^0.1.5",
+    "multer": "^1.4.1",
+    "mysql": "github:mysqljs/mysql",
+    "nodemailer": "^5.1.1",
+    "react-js-pagination": "^3.0.2",
+    "react-responsive-carousel": "^3.1.46"
+  }
+}
